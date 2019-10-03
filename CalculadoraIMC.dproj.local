@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/08/06 09:12:32.000.838,=C:\Users\Dev\Documents\Delphi\Unit1.pas</Transaction>
+    <Transaction>2019/08/06 09:13:10.000.355,C:\Users\Dev\Documents\Delphi\Unit1.dfm=C:\Users\Dev\Documents\Delphi\CalculadoraIMC\ViewPrincipal.dfm</Transaction>
+    <Transaction>2019/08/06 09:13:10.000.355,C:\Users\Dev\Documents\Delphi\Unit1.pas=C:\Users\Dev\Documents\Delphi\CalculadoraIMC\ViewPrincipal.pas</Transaction>
+    <Transaction>2019/08/06 09:13:17.000.339,C:\Users\Dev\Documents\Delphi\Project1.dproj=C:\Users\Dev\Documents\Delphi\CalculadoraIMC\CalculadoraIMC.dproj</Transaction>
+    <Transaction>2019/08/06 09:22:01.000.064,=C:\Users\Dev\Documents\Delphi\CalculadoraIMC\Unit1.pas</Transaction>
+    <Transaction>2019/08/06 09:23:57.000.922,C:\Users\Dev\Documents\Delphi\CalculadoraIMC\Unit1.pas=C:\Users\Dev\Documents\Delphi\CalculadoraIMC\Pessoa.pas</Transaction>
+    <Transaction>2019/08/06 09:25:16.000.686,=C:\Users\Dev\Documents\Delphi\CalculadoraIMC\Unit1.pas</Transaction>
+    <Transaction>2019/08/06 09:27:00.000.348,C:\Users\Dev\Documents\Delphi\CalculadoraIMC\Unit1.pas=C:\Users\Dev\Documents\Delphi\CalculadoraIMC\Calculadora.pas</Transaction>
+    <Transaction>2019/08/06 09:27:38.000.196,C:\Users\Dev\Documents\Delphi\CalculadoraIMC\ViewPrincipal.dfm=C:\Users\Dev\Documents\Delphi\CalculadoraIMC\FormPrincipal.dfm</Transaction>
+    <Transaction>2019/08/06 09:27:38.000.196,C:\Users\Dev\Documents\Delphi\CalculadoraIMC\ViewPrincipal.pas=C:\Users\Dev\Documents\Delphi\CalculadoraIMC\FormPrincipal.pas</Transaction>
+    <Transaction>2019/08/06 09:27:46.000.081,=C:\Users\Dev\Documents\Delphi\CalculadoraIMC\Unit2.pas</Transaction>
+    <Transaction>2019/08/06 09:27:57.000.664,C:\Users\Dev\Documents\Delphi\CalculadoraIMC\Unit2.dfm=C:\Users\Dev\Documents\Delphi\CalculadoraIMC\FormResultado.dfm</Transaction>
+    <Transaction>2019/08/06 09:27:57.000.664,C:\Users\Dev\Documents\Delphi\CalculadoraIMC\Unit2.pas=C:\Users\Dev\Documents\Delphi\CalculadoraIMC\FormResultado.pas</Transaction>
+    <Transaction>2019/08/06 11:08:17.000.803,=C:\Users\Dev\Documents\Delphi\CalculadoraIMC\Unit3.pas</Transaction>
+    <Transaction>2019/08/06 11:08:29.000.543,C:\Users\Dev\Documents\Delphi\CalculadoraIMC\Unit3.dfm=C:\Users\Dev\Documents\Delphi\CalculadoraIMC\FormRequisitos.dfm</Transaction>
+    <Transaction>2019/08/06 11:08:29.000.543,C:\Users\Dev\Documents\Delphi\CalculadoraIMC\Unit3.pas=C:\Users\Dev\Documents\Delphi\CalculadoraIMC\FormRequisitos.pas</Transaction>
+  </Transactions>
+</BorlandProject>
